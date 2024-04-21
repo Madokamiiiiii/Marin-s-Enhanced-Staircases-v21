@@ -1,0 +1,5 @@
+Name         = Marin's Enhanced Staircases
+Version      = 3.0
+Credits      = Marin, Madokami
+Essentials   = 21,21.1
+Link         = https://www.pokecommunity.com/threads/enhanced-staircases.437305/
